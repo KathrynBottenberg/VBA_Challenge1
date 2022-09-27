@@ -1,4 +1,4 @@
-# VBA Challenge #2
+# VBA Challenge- Refactoring 
 
 ## 1. Overview of Project:
   The purpose of this project is to refactor already existing code to make its processing time faster and more efficent for the user. The code created before was okay for smaller data sets, but when considering very large data sets. Making the code run more efficently will make larger data sets easier to run. 
