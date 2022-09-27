@@ -1,6 +1,7 @@
 # VBA Challenge #2
 
-## 1. Overview of Project: Explain the purpose of this analysis.
+## 1. Overview of Project:
+  The purpose of this project is to refactor already existing code to make its processing time faster and more efficent for the user. The code created before was okay for smaller data sets, but when considering very large data sets. Making the code run more efficently will make larger data sets easier to run. 
 
 ## 2. Results: Using images and examples of your code, compare the stock performance between 2018 and 2018, as well as the execution times of the original script and the refactored script.
 
