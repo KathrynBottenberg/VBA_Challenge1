@@ -7,15 +7,17 @@
 
 ## Inital Code Results
   The inital code's analysis takes about .26 seconds to run for the 2018 data. 
-![Image]()
+![Image](Initial_VBA_Challenge_2018.png)
+
   The inital code uses a few standard for-loops to run through the data sheets and produce the total volume as well as the return percentage. The return percentage was color coded: red was a negative return and green was a positive return.
-![Image]()
+![Image](Initial_VBA_Code.png)
 
 ## Refactored Code Results
   The refactored analysis takes about .058 seconds to run the 2018 data.
-![Image]()
+  
+![Image](Refactored_VBA_Challenge_2018.png)
   The refactored code uses a 'ticker index' and 'output arrays' to run through the for-loops created in the initial code. By creating a ticker index and output arrays, we can speed up with run time by being able to hold an unspecified number of variables of the same type. This will make the code only loop through once instead of loop through for each stock listed. In this case, the variables would be the different stock options, if they increased to a larger number.
-![Image]()
+![Image](Refactored_VBA_Code.png)
 
 ## 3. Summary: 
 
